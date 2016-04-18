@@ -499,7 +499,7 @@ vdc_XB_leave3waycall_OFF.gif|vdc_XB_leave3waycall_OFF_ptbr.gif||
 vdc_XB_hangupxferline_OFF.gif|vdc_XB_hangupxferline_OFF_ptbr.gif||
 Manual Dial Queue Calls Waiting:|Fila de Marcação Manual Chamadas em espera:||
 Call Notes:|Chame Notas:||
-History|história||
+History|histórico||
 CALL DISPOSITION|CLASSIFICAÇÃO DA CHAMADA||
 Disposition Status List Hidden|Lista classificar Estado Escondido||
 YOU MUST BE PAUSED TO ENTER A PAUSE CODE IN AUTO-DIAL MODE|VOCÊ DEVE ESTAR EM PAUSA PARA ENTRAR UM CÓDIGO DE PAUSA NO MODO AUTOMÁTICO||
@@ -586,8 +586,8 @@ Hide conference call channel information|Ocultar informações de discagem do ca
 Show conference call channel information|Mostrar informações de discagem do canal||
 vdc_XB_hotkeysactive.gif|vdc_XB_hotkeysactive_ptbr.gif||
 vdc_XB_hotkeysactive_OFF.gif|vdc_XB_hotkeysactive_OFF_ptbr.gif||
-hide comment history|hide história comentário||
-HIDE|esconder||
+hide comment history|ocultar histórico comentário||
+HIDE|ocultar||
 show comment history|Mostrar histórico comentário||
 YOU DO NOT HAVE PERMISSIONS TO TRANSFER CALLS|VOCE NÃO TEM PERMISSÕES PARA TRANSFERIR AS CHAMADAS||
 Logged in as User|Usuário:||
