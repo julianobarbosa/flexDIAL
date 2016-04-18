@@ -1883,7 +1883,7 @@ calls in IVR|Chamadas na URA||
  NO LIVE CALLS WAITING|SEM CHAMADAS EM ESPERA||
 AGENTONLY|AGENTONLY||
 SERVER IP|IP do Servidor||
-DIALTIME|DIALTIME||
+DIALTIME|Tempo de Discagem||
 CALL TYPE|tipo de chamada||
 Agents Time On Calls Campaign|Agentes tempo em chamadas Campanha||
 STATION|STATION||
