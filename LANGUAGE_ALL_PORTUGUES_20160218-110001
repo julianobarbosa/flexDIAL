@@ -1052,21 +1052,21 @@ User Groups|GRUPOS DE USUÁRIOS||
 Record command FAILED for channel|Comando registro falhou para o canal||
 to|para||
 PAUSE TIME:|Tempo de pausa:||
-Call Menu|Menu||
+Call Menu|IVR Menu||
 MODIFY|Alterar||
 Search Method|Método de Pesquisa||
 Back|de volta||
 Remote Agents|Agentes Remotos||
 In-Group|ENTRADA||
-VID ID Number Filename|VID Filename Número de Identificação||
-Load New Leads|CARREGAR CONTATOS||
-List ID|LISTA||
+VID ID Number Filename|VID Número de Identificação||
+Load New Leads|Carregar Contatos||
+List ID|Lista||
 Handle Method|lidar com Método||
 User Territories|Territorios de usuario||
 New Search|nova Pesquisa||
 TALK TIME:|Tempo de conversa:||
 WAIT TIME:|Tempo de espera:||
-REPORTS|RELATÓRIOS||
+REPORTS|Relatorios||
 Date - From|Data - From||
 Add A New List|Adicionar uma nova lista||
 PLEASE SELECT AN AGENT ID AND DATE-TIME ABOVE AND CLICK SUBMIT|Por favor selecione um ID AGENTE E DATA-HORA acima e clique em ENVIAR||
@@ -1080,21 +1080,21 @@ Phone Code|Código de telefone||
 The phone number you entered does not have 10 digits|O número de telefone que você digitou não ter 10 dígitos||
 WRAPUP TIME:|TEMPO Wrapup:||
 Add-Delete DNC Number|Adicione-Delete Número DNC||
-Show In-Groups|LISTAR GRUPOS DE ENTRADA||
+Show In-Groups|Lista Grupo Entrada||
 Add A New Lead|Adicionar uma nova pista||
-Add DNC Number|Adicionar número de DNC||
-Show Lists|MOSTRAR LISTAS||
+Add DNC Number|Adicionar número DNC||
+Show Lists|Mostrar Listas||
 Show Filters|Show Filtros||
 Show Scripts|Mostrar Scripts||
 Modify QC Codes|Modificar Códigos de CQ||
 Enter QC Queue|Digite QC Queue||
-Search For A Lead|PESQUISAR UM CONTATO||
-Phone number|TELEFONE||
-Add A New User|INCLUIR USUÁRIO||
+Search For A Lead|Localizar Contato||
+Phone number|Telefone||
+Add A New User|Inc. Usuário||
 Show Users|Mostrar Usuários||
 Lists|Listas||
-View Customer Info and Disposition Call|Informações visão do cliente e Disposition Chamada||
-Users|USUÁRIOS||
+View Customer Info and Disposition Call|Informações de cliente e Disposition Chamada||
+Users|Usuários||
 Quality Control|Controle de qualidade||
 Call Referred by|Chamada Patrocinado por||
 COF MW Customer Search|COF MW Pesquisa Cliente||
@@ -1107,20 +1107,20 @@ Show Email Groups|Mostrar Grupos de E-mail||
 Add New Email Group|Add New Email Grupo||
 Copy Email Group|Cópia do grupo de EMAIL||
 Show DIDs|Mostrar DDRs||
-Add A New DID|INCLUIR DDR||
-Copy DID|COPIAR DDR||
+Add A New DID|Inc. DDR||
+Copy DID|Copiar DDR||
 RA Extensions|RA Extensions||
 Show Call Menus|Mostrar Menus||
-Add A New Call Menu|INCLUIR UM MENU||
-Copy Call Menu|COPIAR UM MENU||
+Add A New Call Menu|Inc. um IVR MENU||
+Copy Call Menu|Copiar um Menu||
 Filter Phone Groups|Filtro de Grupos de telefone||
 Add Filter Phone Group|Adicionar Grupo de telefone Filtro||
 Show User Groups|Grupos Show Usuário||
 Add A New User Group|Adicionar um novo usuário Grupo||
 Group Hourly Report|Relatório do Grupo de hora em hora||
 Bulk Group Change|Troca de Grupo em lote||
-Show Remote Agents|LISTAR AGENTES REMOTOS||
-Add New Remote Agents|NOVO AGENTE REMOTO||
+Show Remote Agents|Lista Agentes Remotos||
+Add New Remote Agents|Novo Agente Remoto||
 Show Extension Groups|Mostrar Ramal Grupos||
 Add Extension Group|Adicionar Grupo de Ramal||
 Call Times|Horários de Chamadas||
@@ -1140,33 +1140,33 @@ Audio Avatars|Áudio avatars||
 Text To Speech|Text To Speech||
 CallCard Admin|CallCard Administrador||
 Contacts|Contactos||
-HOME|PÁGINA PRINCIPAL||
+HOME|Pagina Inicial||
 Show Campaigns|Mostrar Campanhas||
-Add A New Campaign|NOVA CAMPANHA||
+Add A New Campaign|Nova Campanha||
 Copy Campaign|Copiar Campanha||
 Real-Time Campaigns Summary|Tempo-Real Resumo Campanhas||
-Show Call Times|MOSTRAR HORÁRIOS DE CHAMADA||
+Show Call Times|Mostrar Horario das Chamadas||
 Add A New Call Time|Adicionar A Time Nova chamada||
-Show State Call Times|MOSTRAR HORÁRIOS DE CHAM. POR ESTADO||
+Show State Call Times|Mostrar Horarios de Chamadas/Estado||
 Add A New State Call Time|Adicionar uma comunicação em tempo do Estado Novo||
 Holidays|Férias||
 Add Holiday|Adicionar férias||
 Show Shifts|Mostrar Turnos||
-Add A New Shift|Incluir Turno||
-Show Phones|MOSTRAR RAMAIS||
-Add A New Phone|INCLUIR RAMAL||
-Phone Alias List|LISTA DE ALIAS DE RAMAL||
-Add A New Phone Alias|Incluir Alias de Ramal||
-Group Alias List|LISTA DE ALIAS DE GRUPOS||
-Add A New Group Alias|INCLUIR NOVO ALIAS DE GRUPO||
+Add A New Shift|Inc. Turno||
+Show Phones|Mostrar Ramais||
+Add A New Phone|Inc. Ramal||
+Phone Alias List|Lista Alias Ramal||
+Add A New Phone Alias|Inc. Alias de Ramal||
+Group Alias List|Lista Alias Grupo||
+Add A New Group Alias|Inc. Alias Grupo||
 Show Conferences|Mostrar Conferências||
-Add A New Conference|INCLUIR CONFERÊNCIA||
+Add A New Conference|Inc. Conferencia||
 Show VICIDIAL Conferences|Mostrar Conferências VICIDIAL||
 Add A New VICIDIAL Conference|Adicionar A Conferência de Nova VICIDIAL||
 Show Servers|Mostrar Servers||
 Add A New Server|INCLUIR SERVIDOR||
 Show Templates|Mostrar Templates||
-Add A New Template|Incluir Template||
+Add A New Template|Inc. Template||
 Show Carriers|Mostrar Carriers||
 Add A New Carrier|Adicionar um novo porta-||
 Copy A Carrier|Copiar Um transportador||
@@ -1204,38 +1204,38 @@ Teams/User Groups|Teams/Grupos de Usuários||
 ALL USER GROUPS|TODOS OS GRUPOS DE USUÁRIOS||
 Show additional statuses|Mostrar status adicionais||
 NO ADDITIONAL STATUSES|NO STATUS ADICIONAIS||
-Display as|Apresentar gráficos em:||
+Display as|Mostrar gráficos em:||
 TEXT|TEXTO||
 HTML|HTML||
 LEADS|LEADS||
-CONTACT RATIO|CONTATO RATIO||
-SYSTEM TIME|SISTEMA DE TEMPO||
+CONTACT RATIO|RATIO Contatos||
+SYSTEM TIME|Hora do Sistema||
 SALES|VENDAS||
-SALES TO LEADS RATIO|VENDAS PARA CONDUTORES RATIO||
-SALES TO CONTACTS RATIO|VENDAS PARA CONTATOS RATIO||
-SALES PER HOUR|VENDAS POR HORA||
-INCOMPLETE SALES|VENDAS INCOMPLETAS||
-CANCELLED SALES|VENDAS CANCELADAS||
-CALLBACKS|CALLBACKS||
-FIRST CALLS|PRIMEIRAS CHAMADA||
-AVG SALE TIME|TEMPO DE VENDA AVG||
-AVG CONTACT TIME|AVG CONTACT TEMPO||
+SALES TO LEADS RATIO|Ratio de Vendas||
+SALES TO CONTACTS RATIO|Ratio de Vendas/Contatos||
+SALES PER HOUR|Vendas/Hora||
+INCOMPLETE SALES|Vendas Incompletas||
+CANCELLED SALES|Vendas Canceladas||
+CALLBACKS|CallBacks||
+FIRST CALLS|Primeira Chamada||
+AVG SALE TIME|AVG: Tempo Venda||
+AVG CONTACT TIME|AVG: Tempo Contato||
 CALL CENTER TOTAL|CALL CENTER TOTAL||
-TEAM|TIME||
+TEAM|Time||
 Agent Name|Nome do Agente||
 Agent ID|ID Agente||
 Nonpause Time|Tempo fora da pausa||
 Sales per Working Hour|Vendas por hora de trabalho||
 First Call Resolution|Primeiro Call Resolution||
-Average Sale Time|Tempo Médio de Venda||
-Average Contact Time|Média de Contacto Tempo||
+Average Sale Time|AVG: Tempo Venda||
+Average Contact Time|AVG: Tempo Contato||
 TOTALS:|TOTAIS:||
 NO AGENTS FOUND UNDER THESE REPORT PARAMETERS|Nenhum agente encontrado sob estes parâmetros RELATÓRIO||
 Team Name|Nome da equipe||
 Team ID|ID do time||
-server|SERVIDOR ||
-does not match sounds web server ip|não corresponde soa ip do servidor web||
-Invalid File Name|Inválido Nome do Arquivo||
+server|Servidor ||
+does not match sounds web server ip|o IP do servidor de audio nao não corresponde||
+Invalid File Name|Nome do Arquivo Inválido||
 new web directory created|novo diretório web criado||
 You are not allowed to upload audio files|Você não tem permissão para fazer upload de arquivos de áudio||
 AUDIO FILE SET FOR DELETION|AUDIO SET ficheiro para eliminação||
@@ -1254,13 +1254,13 @@ Select Campaigns|Selecione Campanhas||
 To select more than 1 campaign, hold down the Ctrl key and click|Para selecionar mais de 1 campanha, aperte Ctrl e clique||
 Select User Groups|Selecione os Grupos de Usuários||
 Close Panel|Fechar Painel||
-Screen Refresh Rate|Tela Refresh Rate||
-minutes|atas||
+Screen Refresh Rate|Tempo de atualizacao da Tela||
+minutes|minutos||
 hours|horas||
 years|anos||
 No|não||
 Only|apenas||
-Monitor|monitor||
+Monitor|monitorar||
 BARGE|BARCA||
 Select User Group|Escolha um grupo de usuários||
 Dialable Leads Alert|Discável Leads Alerta||
@@ -1268,7 +1268,7 @@ Show Drop In-Group Row|Mostrar Drop In-Group Row||
 Show Carrier Stats|Mostrar operadora Stats||
 Show Presets Stats|Mostrar Estatísticas Presets||
 Agent Time Stats|Agente Stats Tempo||
-Choose Report Display Options|OPÇÕES DO RELATÓRIO||
+Choose Report Display Options|Opções de Relatório||
 SUCCESS: calling|SUCESSO: chamando||
 RELOAD NOW|ATUALIZAR AGORA||
 SUMMARY|RESUMO||
@@ -1709,7 +1709,7 @@ Audio Files|Arquivos de Audio||
 FILENAME|NOME DO ARQUIVO||
 name|nome||
 NEW|NEW||
-Add New|Incluir||
+Add New|Inc.||
 Add An Audio File|Añadir un archivo de audio||
 Sample Avatar View|Sample Avatar Vista||
 Click here to see Admin changes to this Avatar entry|Clique aqui para ver as mudanças de administração para esta entrada Avatar||
@@ -3519,30 +3519,30 @@ STATUS BREAKDOWN FOR LIST ID|DETALHAMENTO STATUS DE LISTA ID||
 TOTAL STATUS FLAGS SUMMARY|BANDEIRAS Total Status RESUMO||
 To log back in|Para voltar a entrar||
 click here|clique aqui||
-Add New User|Incluir Usuário||
-Add New Campaign|Incluir Campanha||
+Add New User|Inc. Usuário||
+Add New Campaign|Inc. Campanha||
 Add New List|NOVA LISTA||
 Add New DNC|Novo Bloqueio||
 Filter Phone Group Numbers|Números do Grupo Filtro de telefone||
 Add New In-Group|NOVO GRUPO DE ENTRADA||
 Add New DID|Adicionar Novo DID||
-Add Call Menu|Incluir Menu de Chamada||
+Add Call Menu|Inc. Menu de Chamada||
 Add New EMAIL In-Group|Adicionar Novo e-mail em Grupo||
 Add New CHAT In-Group|Adicionar Novo chat em grupo||
 Copy EMAIL In-Group|Copie e-mail em Grupo||
 Copy CHAT In-Group|Copiar chat em grupo||
 Add New Users Group|NOVO GRUPO DE USUÁRIOS||
-Add New Script|Incluir Script||
+Add New Script|Inc. Script||
 Add New Filter|INCLUIR NOVO FILTRO||
 Add New Call Time|Novo Horário de Cham.||
-Add New Shift|Incluir Turno||
+Add New Shift|Inc. Turno||
 Add New State Call Time|Novo Horário de Cham. por Estado||
 ADD NEW PHONE|NOVO RAMAL||
 ADD NEW PHONE ALIAS|INCLUIR ALIAS DE RAMAL||
 ADD NEW GROUP ALIAS|INCLUIR ALIAS DE GRUPO||
 ADD NEW SERVER|NOVO SERVIDOR||
 ADD NEW CONF TEMPLATE|INCLUIR TEMPLATE CONF||
-ADD NEW CARRIER|Incluir Operadora||
+ADD NEW CARRIER|Inc. Operadora||
 ADD COPIED CARRIER|ADD CARRIER COPIADO||
 ADD NEW TTS ENTRY|ADD NEW TTS ENTRADA||
 ADD NEW MUSIC ON HOLD ENTRY|ADD NEW MUSIC EN ESPERA DE ENTRADA||
@@ -3567,7 +3567,7 @@ Campaign Areacode CID Modify|Modificar Campanha CódigoDeÁrea CID||
 New List Addition|Nova Lista||
 New In-Group Addition|Novo Grupo de Entrada||
 New Copied In-Group Addition|Inclusão de Grupo de Entrada Copiada||
-New DID Addition|Incluir DDR||
+New DID Addition|Inc. DDR||
 New Copied DID Addition|Inclusão de DDR por cópia||
 New Call Menu|Novo Menu de Chamada||
 New Filter Phone Group|Grupo Telefone novo filtro||
@@ -3802,7 +3802,7 @@ ADD OR DELETE NUMBERS FROM THE DNC LIST|INCLUIR OU REMOVER TELEFONES DA LISTA DE
 ADD NUMBERS TO THE DNC LIST|INCLUIR NÚMEROS PARA LISTA DE BLOQUEIO||
 Phone Numbers|Números de telefone||
 one phone number per line only|somente um telefone por linha||
-Add or Delete|Incluir ou Remover||
+Add or Delete|Inc. ou Remover||
 Download numbers in this list to a file|Baixe números nesta lista para um arquivo||
 FILTER PHONE GROUP NUMBER NOT DELETED - This phone number is not in the Filter Phone Group List|FILTER NÚMERO GROUP TELEFONE NÃO ELIMINADO - Este número de telefone não está no telefone Lista Grupo Filtro||
 FILTER PHONE GROUP NUMBER DELETED|NÚMERO DO GRUPO FILTRO TELEFONE DELETED||
@@ -4558,7 +4558,7 @@ Modify TTS|modificar TTS||
 Modify Contacts|modificar Contactos||
 CallCard Access|CallCard Acesso||
 Agent API Access|Agent API Acesso||
-Add Timeclock Log Record|Incluir Registro de Ponto||
+Add Timeclock Log Record|Inc. Registro de Ponto||
 Modify Timeclock Log Record|Alterar Registro de Log do Ponto||
 Delete Timeclock Log Record|Remover Registro de Log do Ponto||
 Manager Shift Enforcement Override|Sobrepor Controle de Turno do Gerente||
@@ -5945,7 +5945,7 @@ AGENT SPREADSHEET PERFORMANCE|AGENTE SPREADSHEET PERFORMANCE||
 Dialer Inventory Report|Relatório de Inventário do Discador||
 Inbound Email Report|Inbound Email Relatório||
 Email Log Report|Enviar Log Relatório||
-Agent Reports|RELATÓRIOS DE AGENTES||
+Agent Reports|Relatorios Agentes||
 Agent Status Detail|Agente Status - Detalhado||
 Team Performance Detail|Equipe Detalhe Desempenho||
 Performance Comparison Report|Comparação de desempenho Relatório||
@@ -7177,3 +7177,4 @@ Agent chatting|Agente em Chat||
 Agent in email|Agente em Email||
 NO LIVE CHATS WAITING|SEM CHATS AGUARDANDO||
 Time in seconds|Tempo em segundos||
+0
