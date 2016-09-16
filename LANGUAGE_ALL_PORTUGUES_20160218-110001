@@ -144,12 +144,12 @@ Call %1s could not be grabbed for %2s|chamada %1s não poderia ser agarrado por 
 DONE:|feito:||
 Unidentified Hangup Cause Code.|não identificado código causa hangup||
 Unidentified SIP Hangup Cause Code.|não identificado gole hangup código de causa.||
-VICIDiaL Script Display Script|script de exibição roteiro vicidial||
+VICIDiaL Script Display Script|script de exibição roteiro flexdial||
 Title|Título||
 Gender|gênero||
 Email|Email||
 Comments|Comentários||
-ViciDial Script|roteiro vicidial||
+ViciDial Script|roteiro flexdial||
 Data Updated, Hanging up call, please wait|Dados atualizados, suspensão up call, por favor aguarde||
 Vendor ID:|Vendedor:||
 Title:|título:||
@@ -824,7 +824,7 @@ Third Sunday October to Last Sunday February|terceiro domingo de outubro último
 No DST Method Found|nenhum método dst encontrado||
 Parked Calls Display|Mostrar ligações em espera||
 Exten %1s is not valid or protocol %2s is not valid|%1s EXTEN não é válido ou protocolo %2s não é válido||
-ViciDial Notes|notas vicidial||
+ViciDial Notes|notas flexDIAL||
 Order ID:|id ordem:||
 Appointment Date/Time:|data/hora marcada:||
 Appointment Notes:|notas de nomeação:||
@@ -7155,7 +7155,7 @@ Language has been updated, you may now continue|Idioma foi atualizado, você pod
 Current Language|Idioma atual||
 New Language|novo Idioma||
  First| Nome||
-VICIDIAL: Agent Classificação|VICIDIAL: Finalização por Agente||
+flexDIAL: Agent Classificação|flexDIAL: Finalização por Agente||
 Classificação Details|Detalhes de Finalizações||
 Classificação:|classificar:||
 Classificação Status List Hidden|Lista classificar Estado Escondido||
