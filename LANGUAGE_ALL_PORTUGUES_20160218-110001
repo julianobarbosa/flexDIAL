@@ -113,8 +113,8 @@ no lead active for this agent|não ativo chumbo para este agente||
 no agent session|nenhuma sessão agente||
 Conf Exten %1s or campaign %2s or ext_context %3s is not valid|conf exten %1s ou campanha %2s ou %3s ext_context não é válido||
 Phone and Post Code Time Zone Mismatch! |telefone e pós fuso horário código incompatibilidade!||
- Phone Area Code Outside Dialable Zone|  código de área do telefone fora da zona discável||
- Postal Code Outside Dialable Zone|  CEP fora da zona discável||
+ Phone Area Code Outside Dialable Zone|  código de área do telefone fora da zona discável||
+ Postal Code Outside Dialable Zone|  CEP fora da zona discável||
 ALT PHONE NUMBER STATUS NOT CHANGED|telefone status de número alt não mudou||
 %1s %2s %3s or %4s is not valid| %1s %2s %3s ou %4s não é válido||
 ALT PHONE NUMBER STATUS CHANGED|status de número de telefone alt mudou||
@@ -137,14 +137,14 @@ Agent %1s is now in status %2s|agente %1s está agora em estado %2s||
 favorites list %1s is not valid|favoritos listar %1s não é válido||
 Favorites list has been updated to %1s for %2s|lista de favoritos foi atualizado para %1s para %2s||
 agent_log_id %1s or pause_code %2s is not valid|%1s agent_log_id ou pause_code %2s não é válido||
- Pause Code %1s has been recorded|  pausa de código %1s foi gravada||
+ Pause Code %1s has been recorded|  pausa de código %1s foi gravada||
 READY|DISPONIVEL||
 INCALL|EM LIGACAO||
 PAUSED|pausada||
 -LOGGED-OUT|-logged-out||
 Calls in Queue View Disabled for this campaign|Chamadas na fila Ver condicionada para esta campanha||
 PHONE|Telefone||
-FULL NAME| nome completo ||
+FULL NAME| nome completo ||
 WAIT|esperar ||
 AGENT|agente ||
 CALL GROUP|grupo chamar ||
@@ -153,9 +153,9 @@ TAKE CALL|tomar chamada||
 GO|ir||
 close|fechar ||
 DATE/TIME|data/hora||
-LENGTH| comprimento ||
+LENGTH| comprimento ||
 STATUS|STATUS||
-CAMPAIGN| campanha ||
+CAMPAIGN| campanha ||
 IN/OUT|dentro e fora ||
 ALT|alternado ||
 HANGUP|hangup ||
@@ -689,7 +689,7 @@ LIVE|AGUARDANDO||
 session ID:|id de sessão:||
 Agent Screen|tela agente||
 pixel.gif|pixel.gif||
- ALT PHONE DIAL|  Telefone alt||
+ ALT PHONE DIAL|  Telefone alt||
 RECORDING FILE:|Arquivo de Gravação||
 RECORD ID:|ID da gravação:||
 Customer Time:|hora cliente:||
@@ -846,8 +846,8 @@ ext_priority %1s must be set|ext_priority %1s deve ser definido||
 OriginateName Action not sent|ação originatename não enviado||
 exten %1s must be set|%1s EXTEN deve ser definido||
 OriginateNameVmail Action not sent|ação originatenamevmail não enviado||
- Exten %1s is not valid or queryCID %2s is not valid, Originate command not inserted| %1s EXTEN não é %2s válidos ou querycid não é válido, se originam de comando não inserido||
- You are not allowed to dial into other agent sessions|  você não tem permissão para discar para outras sessões do agente||
+ Exten %1s is not valid or queryCID %2s is not valid, Originate command not inserted| %1s EXTEN não é %2s válidos ou querycid não é válido, se originam de comando não inserido||
+ You are not allowed to dial into other agent sessions|  você não tem permissão para discar para outras sessões do agente||
 conference %1s is not valid or ext_context %2s or queryCID %3s is not valid, Hangup command not inserted|conferências %1s não é válido ou ext_context %2s ou %3s querycid não é válido, comando de suspensão não inserido||
 Channel %1s is not valid or queryCID %2s is not valid, Hangup command not inserted|canal %1s não é válido ou querycid %2s não é válido, comando de suspensão não inseridas||
 Call %1s %2s is not live on %3s, Checking Live Channel|chamam %1s %2s não é viver em %3s, verificando canal ao vivo||
@@ -874,7 +874,7 @@ Hungup %1s on %2s|hungup %1s sobre %2s||
 session_id %1s must be set|%1s SESSION_ID deve ser definido||
 RedirectXtra command sent for Channel %1s and|redirectxtra comando enviado para o canal %1s e||
 ExtraChannel %1s|extrachannel %1s||
- to %1s on %2s|  a %1s sobre %2s||
+ to %1s on %2s|  a %1s sobre %2s||
 RedirectXtra command sent for Channel %1s on %2s and|redirectxtra comando enviado para o canal %1s sobre %2s e||
 Redirect command sent for Channel %1s on %2s|comando enviado para o canal %1s sobre %2s redirecionar||
 Channel %1s is not valid or queryCID %2s is not valid or filename: %3s is not valid, %4s command not inserted|canal %1s não é %2s válidos ou querycid não é válido ou filename: %3s não é válido, %4s comando não inserido||
@@ -948,7 +948,7 @@ FAVORITES|FAVORITOS||
 up.gif|up.gif||
 down.gif|down.gif||
 remove.gif|remove.gif||
-  - ACTIVE DISPLAY PAUSED -|   - Display ativo parou -||
+  - ACTIVE DISPLAY PAUSED -|   - Display ativo parou -||
 Welcome %1s, you are logged into this phone: %2s - %3s/%4s on %5s|%1s de boas-vindas, você está conectado ao telefone: %2s - %3s/%4s em %5s||
 agc_tab_main.gif|agc_tab_main_ptbr.gif||
 agc_tab_active_lines.gif|agc_tab_active_lines_ptbr.gif||
@@ -1927,8 +1927,8 @@ agents logged in|AGENTES ONLINE||
 agents in calls|EM LIGAÇÃO ||
 agents waiting|AGUARDANDO LIGAÇÃO ||
 paused agents|EM PAUSA||
-agents in dead calls|DEAD||
-agents in dispo|PALITANDO||
+agents in dead calls|MORTO||
+agents in dispo|EM DISPO||
 NO AGENTS ON CALLS|Nenhum agente em chamadas||
 ViciDial Welcome|ViciDial Bem-vindo||
 Welcome|Bem vindo||
@@ -2191,28 +2191,28 @@ Agent Performance Detail|Agente Detalhe Desempenho||
 AGENTS Details|AGENTES Detalhes||
 CURRENT USER GROUP|GROUP USUÁRIO ATUAL||
 MOST RECENT USER GROUP|MAIS GROUP recente do usuário||
-PAUSAVG|PAUSAVG||
-WAITAVG|WAITAVG||
-DISPO|PALITANDO||
-DISPAVG|DISPAVG||
+PAUSAVG|PAUSAMED||
+WAITAVG|TEMPOMED||
+DISPO|DISPO||
+DISPAVG|DISPMED||
 DEAD|MORTOS||
-DEADAVG|DEADAVG||
-CUSTAVG|CUSTAVG||
-PAUSE AVG|PAUSA AVG||
-WAIT AVG|ESPERE AVG||
-TALK AVG|CONVERSA AVG||
-DISPO AVG|DISPO AVG||
-DEAD AVG|MORTOS AVG||
+DEADAVG|MORTOMED||
+CUSTAVG|CUSTMED||
+PAUSE AVG|PAUSA MED||
+WAIT AVG|ESPERE MED||
+TALK AVG|CONVERSA MED||
+DISPO AVG|DISPO MED||
+DEAD AVG|MORTOS MED||
 CUST|CUST||
-CUST AVG|CUST AVG||
+CUST AVG|CUST MED||
 CALL STATS BREAKDOWN|CHAMADA STATS REPARTIÇÃO||
 Statistics related to handling of calls only|Estatísticas relacionadas com o tratamento de chamadas apenas||
 MOST RECENT USER GRP|MAIS GRP recente do usuário||
-NONPAUSE|NONPAUSE||
+NONPAUSE|NAOPAUSA||
 PAUSE CODE BREAKDOWN|PAUSA CODE REPARTIÇÃO||
 blank|em branco||
-FIRST LOGIN DATE|Primeiro login DATE||
-LAST LOGIN DATE|ULTIMA DATE||
+FIRST LOGIN DATE|PRIMEIRO LOGIN DATA||
+LAST LOGIN DATE|ULTIMO LOGIN DATA||
 COMPUTER IP|COMPUTER IP||
 BROWSER|NAVEGADOR||
 SERVER PHONE|SERVIDOR TELEFONE||
@@ -2226,8 +2226,8 @@ Lists Pass Report|Listas Passe Relatório||
 LEAD|LEAD||
 CNT RATE|CNT TAXA||
 CONV RATE|CONV TAXA||
-  DNC|   DNC||
- DNC|  DNC||
+  DNC|   DNC||
+ DNC|  DNC||
 DNC RATE|DNC TAXA||
 CUST CONT|CUST CONT||
 CUCT RATE|CUCT TAXA||
@@ -3487,7 +3487,7 @@ VICIDIAL USER LOG|VICIDIAL LOG USUÁRIO||
 WEB SERVER|WEB SERVER||
 VICIDIAL API LOG|LOG API VICIDIAL||
 VICIDIAL REPORT LOG|RELATÓRIO VICIDIAL LOG||
- NOTE: stats taken from shift specified|  NOTA: As estatísticas retiradas de mudança especificado||
+ NOTE: stats taken from shift specified|  NOTA: As estatísticas retiradas de mudança especificado||
 Agent Time Detail|Agente Tiempo Detalle||
 PARKS|PARQUES||
 PARKTIME|PARKTIME||
@@ -6781,12 +6781,12 @@ This field is for the phone IP address if it is a VOIP phone. This is an optiona
 This field is for the user computer IP address. This is an optional field|Este campo é para o endereço IP do usuário do computador. Este é um campo opcional||
 This menu is where you select which server the phone is active on.|Este menu é onde você seleciona qual servidor o aparelho está ativo em.||
 The login used for the phone user to login to the client applications, like the agent screen.|O login usado para o usuário do telefone para acessar os aplicativos do cliente, como a tela do agente||
- The password used for the phone user to login to the web-based client applications. IMPORTANT, this is the password only for the agent web interface phone login, to change the sip.conf or iax.conf password, or secret, for this phone device you need to modify the Registration Password in the next field.|  A senha utilizada para o usuário do telefone para acessar os aplicativos clientes baseados na web. IMPORTANTE, esta é a senha apenas para o agente de interface web telefone login, para alterar a senha ou arquivo iax.conf sip.conf, ou secreta, para este dispositivo de telefone que você precisa para modificar o Registro senha no campo ao lado.||
+ The password used for the phone user to login to the web-based client applications. IMPORTANT, this is the password only for the agent web interface phone login, to change the sip.conf or iax.conf password, or secret, for this phone device you need to modify the Registration Password in the next field.|  A senha utilizada para o usuário do telefone para acessar os aplicativos clientes baseados na web. IMPORTANTE, esta é a senha apenas para o agente de interface web telefone login, para alterar a senha ou arquivo iax.conf sip.conf, ou secreta, para este dispositivo de telefone que você precisa para modificar o Registro senha no campo ao lado.||
 This is the secret, or password, for the phone in the iax or sip auto-generated conf file for this phone. Limit is 20 characters alphanumeric dash and underscore accepted. Default is test. Formerly called Conf File Secret. A strong registration password should be at least 8 characters in length and have lower case and upper case letters as well as at least one number.|Este é o segredo, ou a senha, para o telefone no arquivo conf auto-gerada iax ou gole para este telefone. O limite é de 20 caracteres alfanuméricos e traço sublinhado aceito. O padrão é de teste. Anteriormente chamado Conf arquivo secreto. A senha de registro forte deve ter pelo menos 8 caracteres de comprimento e têm minúsculas e maiúsculas, bem como pelo menos um número.||
- Setting this option to Y will attempt to load a web-based phone when the agent logs into their agent screen. Default is N. The Y_API_LAUNCH option can be used with the agent API to launch the webphone in a separate Iframe or window.|  Definir esta opção como Y tentará carregar um telefone baseado na web quando o agente faz em sua tela agente. O padrão é N. A opção Y_API_LAUNCH pode ser usado com a API para lançar o agente de telefone através de um Iframe ou janela separada.||
- This setting allows you to activate or deactivate the dialpad for this webphone. Default is Y for enabled. TOGGLE will allow the user to view and hide the dialpad by clicking a link. This feature is not available on all webphone versions. TOGGLE_OFF will default to not show the dialpad on first load, but will allow the user to show the dialpad by clicking on the dialpad link.|  Esta configuração permite ativar ou desativar o teclado de discagem para este webphone. O padrão é Y para habilitado. TOGGLE permitirá ao usuário visualizar e ocultar o teclado de discagem, clicando em um link. Este recurso não está disponível em todas as versões WebPhone. TOGGLE_OFF será o padrão para não mostrar o teclado de discagem na primeira carga, mas permitirá que o usuário para mostrar o teclado de discagem, clicando no link do teclado de discagem.||
- This setting allows the web phone to be set to automatically answer calls that come in by setting it to Y, or to have calls ring by setting it to N. Default is Y.|  Essa configuração permite que o telefone web para ser configurado para atender automaticamente as chamadas que entram em definindo-o como Y, ou para ter chamadas anel definindo-o como N. O padrão é Y.||
- If using as a web phone, you can set this to Y to use the servers External IP to register to instead of the Server IP. Default is empty.|  Se utilizar como um telefone web, você pode definir isso para Y para usar os servidores IP externo para registrar a vez do IP Server. O padrão é vazio.||
+ Setting this option to Y will attempt to load a web-based phone when the agent logs into their agent screen. Default is N. The Y_API_LAUNCH option can be used with the agent API to launch the webphone in a separate Iframe or window.|  Definir esta opção como Y tentará carregar um telefone baseado na web quando o agente faz em sua tela agente. O padrão é N. A opção Y_API_LAUNCH pode ser usado com a API para lançar o agente de telefone através de um Iframe ou janela separada.||
+ This setting allows you to activate or deactivate the dialpad for this webphone. Default is Y for enabled. TOGGLE will allow the user to view and hide the dialpad by clicking a link. This feature is not available on all webphone versions. TOGGLE_OFF will default to not show the dialpad on first load, but will allow the user to show the dialpad by clicking on the dialpad link.|  Esta configuração permite ativar ou desativar o teclado de discagem para este webphone. O padrão é Y para habilitado. TOGGLE permitirá ao usuário visualizar e ocultar o teclado de discagem, clicando em um link. Este recurso não está disponível em todas as versões WebPhone. TOGGLE_OFF será o padrão para não mostrar o teclado de discagem na primeira carga, mas permitirá que o usuário para mostrar o teclado de discagem, clicando no link do teclado de discagem.||
+ This setting allows the web phone to be set to automatically answer calls that come in by setting it to Y, or to have calls ring by setting it to N. Default is Y.|  Essa configuração permite que o telefone web para ser configurado para atender automaticamente as chamadas que entram em definindo-o como Y, ou para ter chamadas anel definindo-o como N. O padrão é Y.||
+ If using as a web phone, you can set this to Y to use the servers External IP to register to instead of the Server IP. Default is empty.|  Se utilizar como um telefone web, você pode definir isso para Y para usar os servidores IP externo para registrar a vez do IP Server. O padrão é vazio.||
 The status of the phone in the system, ACTIVE and ADMIN allow for GUI clients to work. ADMIN allows access to this administrative web site. All other statuses do not allow GUI or Admin web access.|O status do telefone no sistema, ativa e ADMIN permitir clientes GUI para trabalhar. Admin permite acesso a este web site administrativo. Todos os outros estados não permitem GUI ou administrador acesso à web.||
 Whether the phone is active to put it in the list in the GUI client.|Se o telefone está ativo para colocá-lo na lista do cliente GUI.||
 Purely for administrative notes.|Puramente para notas administrativas.||
@@ -7218,3 +7218,4 @@ Selecting a date range from this drop down menu will filter out any callback whe
 The current list of all agents having at least one callback - select one or more to move callbacks from these agents to new lists and or assign new statuses.  This will combine with other selected criteria to make a final list of callbacks to move.|A lista atual de todos os agentes que possuem pelo menos um callback - selecione uma ou mais chamadas de retorno para mover a partir destes agentes para novas listas e ou atribuir novos status. Isto irá combinar com outros critérios selecionados para fazer uma lista final de retornos de chamada para se mover.||
 If this box is checked, before the leads meeting the selected criteria are moved, the callbacks table will purge itself of all inactive records in the table.  This includes records that have a status of INACTIVE, OR any record still in the callback table that is LIVE but whose status in the vicidial_list table is NOT listed as a callback, i.e. it has been called, lead has called in, lead dispo has been modified.  The page will notify you how many leads will be purged before you confirm that you would like to proceed.|Se esta opção estiver marcada, antes de os condutores que satisfaçam os critérios selecionados são movidos, a tabela de chamadas de retorno vai purgar-se de todos os registros inativos na tabela. Isso inclui registros que têm um status de inativo, OU qualquer registro ainda na tabela de callback que está vivo mas cujo status na tabela de vicidial_list não está listado como um callback, ou seja, ele tem sido chamado, o chumbo tem chamado, chumbo dispo tem sido modificada. A página irá notificá-lo quantas ligações serão limpos antes de confirmar que você gostaria de prosseguir.||
 You can select which variables for calls will be displayed in the status line of the agent screen. CALLID will display the 20 character unique call ID, LEADID will display the system lead ID, LISTID will display the list ID. Default is CALLID.|Você pode selecionar quais variáveis ​​para as chamadas serão exibidos na linha de status da tela do agente. CALLID irá exibir a 20 caracteres ID chamada única, LEADID irá exibir a ID principal do sistema, ListId irá exibir o ID lista. O padrão é CALLID||
+0
