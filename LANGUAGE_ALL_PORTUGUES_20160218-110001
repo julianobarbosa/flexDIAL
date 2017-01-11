@@ -140,7 +140,7 @@ agent_log_id %1s or pause_code %2s is not valid|%1s agent_log_id ou pause_code %
  Pause Code %1s has been recorded|  pausa de código %1s foi gravada||
 READY|DISPONIVEL||
 INCALL|EM LIGACAO||
-PAUSED|pausada||
+PAUSED|EM PAUSA||
 -LOGGED-OUT|-logged-out||
 Calls in Queue View Disabled for this campaign|Chamadas na fila Ver condicionada para esta campanha||
 PHONE|Telefone||
